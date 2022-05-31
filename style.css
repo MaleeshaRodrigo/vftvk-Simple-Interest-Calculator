@@ -1,13 +1,22 @@
-body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana}
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+h1{
+    color:grey;
+    font-family:verdana
+}
 .maindiv{
     background-color: white;
     color: black;
-    width: 300px;
+    width: 30%;
     padding: 20px;
     border-radius: 25px;
     text-align: center;
+    margin: 5% 35%;
 }
 table tr td{
     text-align: left;
+    padding: 5px;
 }
